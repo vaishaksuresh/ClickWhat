@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>FlickrNet.WP7</id>
+    <version>3.5.0</version>
+    <title>FlickrNet API Library for Windows Phone 7</title>
+    <authors>Sam Judson</authors>
+    <owners>Sam Judson</owners>
+    <licenseUrl>http://flickrnet.codeplex.com/license</licenseUrl>
+    <projectUrl>http://flickrnet.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Flickr.Net API Library is a .Net Library for accessing the Flickr API via Windows Phone 7.</description>
+    <tags>flickr photo photography social</tags>
+    <references>
+      <reference file="FlickrNetWP7.dll" />
+    </references>
+  </metadata>
+</package>
